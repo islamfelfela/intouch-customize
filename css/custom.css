@@ -278,6 +278,38 @@
     color: #082627;
 	
 }
+.features-img{
+	width: 290px;
+	
+	
+}
+
+
+.features-top-left{
+	width: 240px;
+	height: 170px;
+	margin-top: 40px;
+    margin-bottom: 20px;
+	
+}
+.features-top-right{
+	width: 240px;
+	margin-top: 40px;
+    margin-bottom: 20px;
+	
+	
+}
+.features-bottom-left{
+	width: 240px;
+	margin-top: 40px;
+    margin-bottom: 20px;
+	
+}
+.features-bottom-right{
+	width: 240px;
+	margin-top: 40px;
+    margin-bottom: 20px;
+}
 
 
 
