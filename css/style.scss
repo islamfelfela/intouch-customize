@@ -1,0 +1,235 @@
+   /* This is a Custom css style sheet */
+
+  
+/* start home section*/
+
+
+.container{
+	width: 960px;
+}
+
+
+.home{
+	background-color: #1fd188;
+	padding-top: 5px;
+	max-height: 560px;
+}
+
+.home-row-top{
+	border-bottom: 1px solid #fff;
+	opacity: .8;
+	max-width: 940px;
+	overflow: hidden;
+}
+
+.home-row-top:hover{ 
+	border-bottom: 1px solid #fff;
+	opacity: 1;
+	max-width: 940px;
+	overflow: hidden;
+}
+
+
+.logo-img{
+	width: 100px;
+	height:33px;
+	float: left;
+}
+
+
+.irish-flag{
+	
+	width: 35px;
+	height:18px;
+	float: right;
+}
+
+.img-companies{
+	display: block;
+}
+
+.img-comp{
+	
+	width: 380px;
+	height:365px;
+	float: right;
+}
+
+
+.home-row-bottom{
+	padding-bottom: 80px;
+}
+
+
+
+/* end home section*/
+
+/* start serach section*/
+
+
+.serch-connect{
+	background-color:#f5f5f5;
+	padding-top:5px;
+	padding-bottom:80px;
+}
+
+.text-block{
+	margin-bottom: 20px;
+}
+
+.partener-logo{
+	display: block;
+	float: left;
+	max-width: 100px;
+	margin-left: 10px;
+	margin-right: 10px;
+	
+}
+
+.share-btn{
+	widows: 150px;
+	height:50px;
+	float: left;
+	border-radius: 10px;
+	background-color: #5cc489;
+		
+}
+
+.left-arrow{
+	width: 50px;
+	float: left;
+	opacity: 1;
+	margin-top: 20px;
+	margin-left: 5px;
+	margin-right: 5px;
+	color: #333;
+    transition: opacity 2000ms;
+	
+}
+ p {
+	
+	margin-top: 10px;
+}
+/* end serach section*/
+
+/* start onboard section*/
+
+
+.get-onboard{
+	background-color: #1fd188;
+	color: beige;
+	padding-bottom:80px;
+	padding-top:80px;
+}
+.smart{
+	color: beige;
+	padding-top:20px; 
+	float: right;
+	margin-left: -100px;
+}
+.onboard-text{
+	padding-bottom:20px;
+	float: right;
+	
+}
+
+.onboard-btn{
+	height: 50px;
+	float: left;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	text-align: center;
+	line-height: 1.435px;
+}
+
+.up-arrow{
+	width: 50px;
+	height: 46px;
+	opacity: 1;
+	display: inline-block;
+    margin-top: 70px;
+    margin-left: -20px;
+    padding-left: 0;
+    float: left;
+    transition: opacity 2000ms;
+}
+
+
+/* start onborad section*/
+
+.update{
+	padding-bottom: 80px;
+	padding-top: 80px;
+	background-color:#f5f5f5;
+	border-bottom: 2px solid #fff;
+	
+}
+
+.update-img{
+	width: 500px;
+	height: 200px;
+}
+
+
+
+/* end search section*/
+
+/* satart download section*/
+
+.download{
+	padding-top: 80px;
+	padding-bottom: 100px;
+	background-color:#f5f5f5;
+}
+
+
+.download-right{
+	padding-left: 20px;
+	padding-right: 20px;
+	font-family: Roboto,sans-serif;
+	
+}
+
+.get-app-text{
+	margin-top: 0;
+    margin-bottom: 26px;
+    padding: 19px;
+    border-radius: 3px;
+    box-shadow: 0 0 6px 0 #fff;
+    color: rgba(64,67,81,.5);
+    font-weight: 700;
+}
+
+
+
+.save-it-text{
+	margin-top: 0;
+    margin-bottom: 26px;
+    padding: 19px;
+    border-radius: 3px;
+    box-shadow: 0 0 6px 0 #fff;
+    color: rgba(64,67,81,.5);
+    font-weight: 700;	
+}
+
+.save-it-img{
+	
+}
+
+
+.download .download-right .icons ul li{
+	list-style:none;
+}
+
+
+.download-left{
+	padding-left: 20px;
+	padding-right: 20px;
+	font-family: tahoma,sans-serif;
+}
+
+
+
+
+/* end download section*/
+
